@@ -1,5 +1,0 @@
-a = input()
-b = input()
-c = input()
-x = input()
-print(a*x**2 + b*x + c)
